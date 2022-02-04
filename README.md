@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on exciting projects which helps us to make our lives more efficient
-- 💻I am actively looking for jobs for the role of SDE.
+- 💻 I am actively looking for jobs for the role of SDE.
 - 📌 Linkedin www.linkedin.com/in/pradhumn-sirothiya
 - 📫 How to reach me sirothiyapradhumn@gmail.com
 
